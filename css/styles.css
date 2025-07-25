@@ -10970,3 +10970,20 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+
+
+.dev-icons svg.cuda-icon {
+  width: 2em;
+  height: auto;
+  vertical-align: middle;
+  filter: grayscale(100%);
+  fill: #6c757d;       
+  opacity: 0.8;
+}
+
+
+.dev-icons svg.cuda-icon {
+  margin-top: -0.2em;
+}
+
