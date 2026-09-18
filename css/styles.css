@@ -11054,6 +11054,24 @@ section.resume-section .resume-section-content {
   line-height: 1.25;
 }
 
+.org-logo {
+  height: 0.8em;
+  width: auto;
+  margin-left: 0.3rem;
+  vertical-align: baseline;
+}
+
+.org-logo-emblem {
+  height: 1.3em;
+  vertical-align: -0.2em;
+}
+
+#news .org-logo {
+  height: 1.1em;
+  margin: 0 0.1rem;
+  vertical-align: -0.2em;
+}
+
 #experiences .work-role-line {
   margin-top: 0;
   margin-bottom: 0.1rem;
